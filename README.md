@@ -3,7 +3,7 @@ Great Examples For Java Learners
 
 ENG
 1-Create new Java project
-2-Copy files into your src folder
+<hr>2-Copy files into your src folder
 3-Beware of file names and class names matching
 4-Thats all. You can run the project for seeing how it works
 
