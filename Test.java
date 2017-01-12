@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	String il = null;
 	int odaSayisi = 0;
 	double fiyat = 0;
-	int total = 0;
+	double total = 0;
 	ArrayList<Emlak> envanter = new ArrayList<>();
 	
 	while(true){
